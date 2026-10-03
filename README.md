@@ -57,7 +57,6 @@ streamlit run app.py
 
 ## Dataset
 Roboflow helmet dataset with two classes: With Helmet and Without Helmet.
-Link: <Roboflow dataset ka link yahan daalo>
 
 ## Limitations
 - Videos are limited to the first 10 seconds and 50 MB to keep the demo fast on a free CPU server.
