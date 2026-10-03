@@ -10,11 +10,6 @@ Detects whether riders are wearing helmets in images and videos, using a custom-
 ### Detection output
 ![Detection result](screenshots/detection.png)
 
-<p align="center">
-  <img src="screenshots/home.png" width="48%" />
-  <img src="screenshots/detection.png" width="48%" />
-</p>
-
 ## Features
 - Image upload with instant detection
 - Video upload (first 10 seconds are processed) with annotated output
