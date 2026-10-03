@@ -26,7 +26,6 @@ VIDEO_EXAMPLES = sorted(
     + glob.glob("examples/*.avi") + glob.glob("examples/*.mkv")
 )[:1]
 
-# Colab me best_model.val() chala ke ye numbers bhar do
 METRICS = {"mAP50": "92.5%", "Precision": "85.5%", "Recall": "88.3%", "Epochs": "40"}
 GREEN = (94, 197, 34)
 RED = (68, 68, 239)
