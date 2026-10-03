@@ -2,9 +2,18 @@
 
 Detects whether riders are wearing helmets in images and videos, using a custom-trained YOLO11n model and a Streamlit web app.
 
-**Live demo:** <deploy ke baad apna Streamlit link yahan daalo>
+**Live demo:** <https://helmet-detection-gnexp.streamlit.app/>
 
 ![App screenshot](screenshots/home.png)
+
+
+### Detection output
+![Detection result](screenshots/detection.png)
+
+<p align="center">
+  <img src="screenshots/home.png" width="48%" />
+  <img src="screenshots/detection.png" width="48%" />
+</p>
 
 ## Features
 - Image upload with instant detection
